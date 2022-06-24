@@ -6,13 +6,12 @@ var counter = 0;
 /* GET home page. */
 router.get('/', function (req, res, next) {
   res.render('index', {
-    title: 'Hellooo', counter: (function () {
+    title: 'Mohammad Ammar Ramadhan', counter: (function () {
       counter = counter + 1;
       return counter;
     })()
   });
 });
-
 
 
 module.exports = router;

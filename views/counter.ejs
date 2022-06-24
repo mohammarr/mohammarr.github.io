@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>Welcome to <%= title %>, <%= counter %></p>
+    <div>
+      <form method="POST" action="/counter/increase-counter">
+        <input type="submit" value="Increase by 1">
+      </form>
+    </div>
+  </body>
+</html>
