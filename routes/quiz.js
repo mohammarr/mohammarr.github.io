@@ -43,7 +43,7 @@ router.post("/check-answer", function (req, res, next) {
     if (correct){
         benar += 1;
     } else {
-        salah -= 1;
+        salah += 1;
     }
     res.json({
         "correct": correct
