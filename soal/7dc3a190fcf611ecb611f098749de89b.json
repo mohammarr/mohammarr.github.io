@@ -1,0 +1,551 @@
+[ {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 3^{x^{2}+7x-6} < 9^{2x+2} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -5$ atau $ x > 2 $ ", 0 ], [ false, "$-5 < x < -2$ ", 1 ], [ false, "$2 < x < 5$ ", 2 ], [ false, "$ x < 2$ atau $ x > 5 $ ", 3 ], [ true, "$-5 < x < 2$ ", 4 ] ],
+    "jawaban" : "E"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217d0fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 3^{x^{2}-10x-1} < \\frac{1}{3}^{5x+5} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -1$ atau $ x > 4 $ ", 0 ], [ false, "$ x < 1$ atau $ x > 4 $ ", 1 ], [ true, "$1 < x < 4$ ", 2 ], [ false, "$-4 < x < 1$ ", 3 ], [ false, "$-1 < x < 4$ ", 4 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217d1fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 4^{x^{2}-13x+2} > \\frac{1}{16}^{3x+4} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -5$ atau $ x > 2 $ ", 0 ], [ false, "$-2 < x < 5$ ", 1 ], [ true, "$ x < 2$ atau $ x > 5 $ ", 2 ], [ false, "$2 < x < 5$ ", 3 ], [ false, "$ x < -2$ atau $ x > 5 $ ", 4 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217d2fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 5^{x^{2}+5x-30} < 25^{3x-5} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$4 < x < 5$ ", 0 ], [ true, "$-4 < x < 5$ ", 1 ], [ false, "$ x < -4$ atau $ x > 5 $ ", 2 ], [ false, "$-5 < x < -4$ ", 3 ], [ false, "$ x < -5$ atau $ x > -4 $ ", 4 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217d3fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 4^{x^{2}-x-1} < \\frac{1}{4}^{2x-1} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -2$ atau $ x > 1 $ ", 0 ], [ false, "$-2 < x < -1$ ", 1 ], [ false, "$ x < -2$ atau $ x > -1 $ ", 2 ], [ false, "$1 < x < 2$ ", 3 ], [ true, "$-2 < x < 1$ ", 4 ] ],
+    "jawaban" : "E"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217d4fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 2^{x^{2}-4x-7} > \\frac{1}{4}^{x+2} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$-1 < x < 3$ ", 0 ], [ true, "$ x < -1$ atau $ x > 3 $ ", 1 ], [ false, "$ x < 1$ atau $ x > 3 $ ", 2 ], [ false, "$-3 < x < -1$ ", 3 ], [ false, "$ x < -3$ atau $ x > -1 $ ", 4 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217d5fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 3^{x^{2}+5x-12} < 9^{4x-1} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$-5 < x < -2$ ", 0 ], [ false, "$ x < -5$ atau $ x > -2 $ ", 1 ], [ false, "$ x < -2$ atau $ x > 5 $ ", 2 ], [ true, "$-2 < x < 5$ ", 3 ], [ false, "$2 < x < 5$ ", 4 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217d6fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 5^{x^{2}+14x-11} < \\frac{1}{125}^{-3x+5} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$-4 < x < 1$ ", 0 ], [ false, "$ x < -1$ atau $ x > 4 $ ", 1 ], [ false, "$-1 < x < 4$ ", 2 ], [ false, "$ x < -4$ atau $ x > -1 $ ", 3 ], [ true, "$-4 < x < -1$ ", 4 ] ],
+    "jawaban" : "E"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217d7fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 5^{x^{2}-4x-3} > 25^{x-4} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -1$ atau $ x > 5 $ ", 0 ], [ false, "$ x < -5$ atau $ x > 1 $ ", 1 ], [ true, "$ x < 1$ atau $ x > 5 $ ", 2 ], [ false, "$-1 < x < 5$ ", 3 ], [ false, "$1 < x < 5$ ", 4 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217d8fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 2^{x^{2}+7x-5} < 8^{2x-1} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$1 < x < 2$ ", 0 ], [ false, "$ x < -2$ atau $ x > 1 $ ", 1 ], [ false, "$-2 < x < -1$ ", 2 ], [ false, "$ x < -2$ atau $ x > -1 $ ", 3 ], [ true, "$-2 < x < 1$ ", 4 ] ],
+    "jawaban" : "E"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217d9fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 6^{x^{2}+5x-11} > \\frac{1}{216}^{-2x-3} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -5$ atau $ x > -4 $ ", 0 ], [ false, "$ x < 4$ atau $ x > 5 $ ", 1 ], [ false, "$-4 < x < 5$ ", 2 ], [ true, "$ x < -4$ atau $ x > 5 $ ", 3 ], [ false, "$-5 < x < -4$ ", 4 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217dafcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 6^{x^{2}-x-24} > \\frac{1}{216}^{x+3} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$-5 < x < -3$ ", 0 ], [ false, "$-5 < x < 3$ ", 1 ], [ true, "$ x < -5$ atau $ x > 3 $ ", 2 ], [ false, "$ x < 3$ atau $ x > 5 $ ", 3 ], [ false, "$ x < -5$ atau $ x > -3 $ ", 4 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217dbfcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 4^{x^{2}-3x-7} > 64^{-2x+1} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < 2$ atau $ x > 5 $ ", 0 ], [ true, "$ x < -5$ atau $ x > 2 $ ", 1 ], [ false, "$2 < x < 5$ ", 2 ], [ false, "$-5 < x < 2$ ", 3 ], [ false, "$ x < -5$ atau $ x > -2 $ ", 4 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217dcfcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 6^{x^{2}+5x-2} > \\frac{1}{36}^{-5x+3} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ true, "$ x < 1$ atau $ x > 4 $ ", 0 ], [ false, "$-1 < x < 4$ ", 1 ], [ false, "$ x < -1$ atau $ x > 4 $ ", 2 ], [ false, "$1 < x < 4$ ", 3 ], [ false, "$ x < -4$ atau $ x > 1 $ ", 4 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217ddfcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 6^{x^{2}+3x+2} < \\frac{1}{6}^{-5x-5} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ true, "$-1 < x < 3$ ", 0 ], [ false, "$ x < -1$ atau $ x > 3 $ ", 1 ], [ false, "$1 < x < 3$ ", 2 ], [ false, "$ x < 1$ atau $ x > 3 $ ", 3 ], [ false, "$-3 < x < -1$ ", 4 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217defcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 3^{x^{2}-6x+8} < 3^{-x+4} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < 1$ atau $ x > 4 $ ", 0 ], [ false, "$ x < -4$ atau $ x > 1 $ ", 1 ], [ true, "$1 < x < 4$ ", 2 ], [ false, "$-1 < x < 4$ ", 3 ], [ false, "$-4 < x < 1$ ", 4 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217dffcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 4^{x^{2}+15x+8} < \\frac{1}{16}^{-5x-2} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$-1 < x < 4$ ", 0 ], [ false, "$ x < -4$ atau $ x > -1 $ ", 1 ], [ true, "$-4 < x < -1$ ", 2 ], [ false, "$ x < -1$ atau $ x > 4 $ ", 3 ], [ false, "$-4 < x < 1$ ", 4 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217e0fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 5^{x^{2}+2x-5} < 25^{-2x-5} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$-5 < x < 1$ ", 0 ], [ false, "$ x < -1$ atau $ x > 5 $ ", 1 ], [ true, "$-5 < x < -1$ ", 2 ], [ false, "$-1 < x < 5$ ", 3 ], [ false, "$ x < -5$ atau $ x > -1 $ ", 4 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217e1fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 2^{x^{2}-3x} < \\frac{1}{4}^{-x+2} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -4$ atau $ x > 1 $ ", 0 ], [ false, "$ x < 1$ atau $ x > 4 $ ", 1 ], [ false, "$-1 < x < 4$ ", 2 ], [ true, "$1 < x < 4$ ", 3 ], [ false, "$-4 < x < 1$ ", 4 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217e2fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 4^{x^{2}-13x+3} < \\frac{1}{64}^{4x-5} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -4$ atau $ x > -3 $ ", 0 ], [ false, "$-4 < x < -3$ ", 1 ], [ true, "$-3 < x < 4$ ", 2 ], [ false, "$ x < -3$ atau $ x > 4 $ ", 3 ], [ false, "$3 < x < 4$ ", 4 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217e3fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 2^{x^{2}-4x} > \\frac{1}{8}^{x-2} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < 2$ atau $ x > 3 $ ", 0 ], [ false, "$ x < -3$ atau $ x > -2 $ ", 1 ], [ false, "$-2 < x < 3$ ", 2 ], [ false, "$-3 < x < -2$ ", 3 ], [ true, "$ x < -2$ atau $ x > 3 $ ", 4 ] ],
+    "jawaban" : "E"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217e4fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 6^{x^{2}+8x-3} > 6^{5x+1} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -4$ atau $ x > -1 $ ", 0 ], [ false, "$ x < 1$ atau $ x > 4 $ ", 1 ], [ false, "$-4 < x < 1$ ", 2 ], [ false, "$1 < x < 4$ ", 3 ], [ true, "$ x < -4$ atau $ x > 1 $ ", 4 ] ],
+    "jawaban" : "E"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217e5fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 3^{x^{2}+x+8} > \\frac{1}{9}^{3x+1} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -2$ atau $ x > 5 $ ", 0 ], [ false, "$-5 < x < -2$ ", 1 ], [ false, "$ x < -5$ atau $ x > 2 $ ", 2 ], [ true, "$ x < -5$ atau $ x > -2 $ ", 3 ], [ false, "$-2 < x < 5$ ", 4 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217e6fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 6^{x^{2}-3x-6} > \\frac{1}{36}^{3x-2} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < 2$ atau $ x > 5 $ ", 0 ], [ false, "$ x < -5$ atau $ x > -2 $ ", 1 ], [ true, "$ x < -5$ atau $ x > 2 $ ", 2 ], [ false, "$-5 < x < 2$ ", 3 ], [ false, "$2 < x < 5$ ", 4 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217e7fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 4^{x^{2}+5x-7} > \\frac{1}{4}^{-4x-5} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < 3$ atau $ x > 4 $ ", 0 ], [ false, "$ x < -4$ atau $ x > -3 $ ", 1 ], [ false, "$-4 < x < 3$ ", 2 ], [ false, "$3 < x < 4$ ", 3 ], [ true, "$ x < -4$ atau $ x > 3 $ ", 4 ] ],
+    "jawaban" : "E"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217e8fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 2^{x^{2}-x-10} > 4^{-2x-3} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -4$ atau $ x > -1 $ ", 0 ], [ true, "$ x < -4$ atau $ x > 1 $ ", 1 ], [ false, "$-4 < x < -1$ ", 2 ], [ false, "$-4 < x < 1$ ", 3 ], [ false, "$ x < 1$ atau $ x > 4 $ ", 4 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217e9fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 3^{x^{2}-x+3} > \\frac{1}{3}^{-5x+2} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -1$ atau $ x > 5 $ ", 0 ], [ false, "$1 < x < 5$ ", 1 ], [ false, "$-5 < x < 1$ ", 2 ], [ false, "$ x < -5$ atau $ x > 1 $ ", 3 ], [ true, "$ x < 1$ atau $ x > 5 $ ", 4 ] ],
+    "jawaban" : "E"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217eafcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 4^{x^{2}-2x-8} < 4^{-4x-5} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$-3 < x < -1$ ", 0 ], [ false, "$ x < -3$ atau $ x > -1 $ ", 1 ], [ false, "$1 < x < 3$ ", 2 ], [ false, "$ x < -3$ atau $ x > 1 $ ", 3 ], [ true, "$-3 < x < 1$ ", 4 ] ],
+    "jawaban" : "E"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217ebfcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 3^{x^{2}-4x+6} > 27^{-2x+3} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$-3 < x < 1$ ", 0 ], [ false, "$ x < 1$ atau $ x > 3 $ ", 1 ], [ false, "$-3 < x < -1$ ", 2 ], [ true, "$ x < -3$ atau $ x > 1 $ ", 3 ], [ false, "$ x < -3$ atau $ x > -1 $ ", 4 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217ecfcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 4^{x^{2}+7x-2} > 16^{5x+4} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -5$ atau $ x > -2 $ ", 0 ], [ true, "$ x < -2$ atau $ x > 5 $ ", 1 ], [ false, "$2 < x < 5$ ", 2 ], [ false, "$-2 < x < 5$ ", 3 ], [ false, "$ x < 2$ atau $ x > 5 $ ", 4 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217edfcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 3^{x^{2}-4x-9} < 3^{-2x-1} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$2 < x < 4$ ", 0 ], [ false, "$ x < -2$ atau $ x > 4 $ ", 1 ], [ false, "$-4 < x < -2$ ", 2 ], [ true, "$-2 < x < 4$ ", 3 ], [ false, "$ x < 2$ atau $ x > 4 $ ", 4 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217eefcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 6^{x^{2}-9x-9} < 6^{-5x-4} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -5$ atau $ x > -1 $ ", 0 ], [ false, "$-5 < x < -1$ ", 1 ], [ false, "$ x < -1$ atau $ x > 5 $ ", 2 ], [ true, "$-1 < x < 5$ ", 3 ], [ false, "$1 < x < 5$ ", 4 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217effcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 5^{x^{2}+19x-2} < 125^{4x-4} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ true, "$-5 < x < -2$ ", 0 ], [ false, "$-2 < x < 5$ ", 1 ], [ false, "$ x < -5$ atau $ x > -2 $ ", 2 ], [ false, "$-5 < x < 2$ ", 3 ], [ false, "$ x < -5$ atau $ x > 2 $ ", 4 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217f0fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 5^{x^{2}-9x-10} > \\frac{1}{25}^{5x+4} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$-2 < x < -1$ ", 0 ], [ false, "$ x < 1$ atau $ x > 2 $ ", 1 ], [ true, "$ x < -2$ atau $ x > 1 $ ", 2 ], [ false, "$ x < -2$ atau $ x > -1 $ ", 3 ], [ false, "$-2 < x < 1$ ", 4 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217f1fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 2^{x^{2}+3x-6} < 4^{3x-1} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < 1$ atau $ x > 4 $ ", 0 ], [ false, "$ x < -1$ atau $ x > 4 $ ", 1 ], [ false, "$1 < x < 4$ ", 2 ], [ false, "$-4 < x < -1$ ", 3 ], [ true, "$-1 < x < 4$ ", 4 ] ],
+    "jawaban" : "E"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217f2fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 2^{x^{2}} > 4^{-x+4} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < 2$ atau $ x > 4 $ ", 0 ], [ false, "$ x < -4$ atau $ x > -2 $ ", 1 ], [ true, "$ x < -4$ atau $ x > 2 $ ", 2 ], [ false, "$-4 < x < -2$ ", 3 ], [ false, "$-4 < x < 2$ ", 4 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217f3fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 6^{x^{2}-4x-5} < 216^{-x+5} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$4 < x < 5$ ", 0 ], [ false, "$-5 < x < -4$ ", 1 ], [ false, "$ x < -5$ atau $ x > -4 $ ", 2 ], [ true, "$-4 < x < 5$ ", 3 ], [ false, "$ x < -4$ atau $ x > 5 $ ", 4 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217f4fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 2^{x^{2}+2x+7} > 4^{2x+5} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -3$ atau $ x > -1 $ ", 0 ], [ false, "$-1 < x < 3$ ", 1 ], [ false, "$-3 < x < -1$ ", 2 ], [ false, "$ x < 1$ atau $ x > 3 $ ", 3 ], [ true, "$ x < -1$ atau $ x > 3 $ ", 4 ] ],
+    "jawaban" : "E"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217f5fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 3^{x^{2}-5x-9} > 27^{-2x-1} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -3$ atau $ x > -2 $ ", 0 ], [ false, "$-3 < x < 2$ ", 1 ], [ false, "$ x < 2$ atau $ x > 3 $ ", 2 ], [ false, "$2 < x < 3$ ", 3 ], [ true, "$ x < -3$ atau $ x > 2 $ ", 4 ] ],
+    "jawaban" : "E"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217f6fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 5^{x^{2}-2x+3} > \\frac{1}{5}^{x-5} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$-1 < x < 2$ ", 0 ], [ false, "$ x < 1$ atau $ x > 2 $ ", 1 ], [ true, "$ x < -1$ atau $ x > 2 $ ", 2 ], [ false, "$ x < -2$ atau $ x > -1 $ ", 3 ], [ false, "$-2 < x < -1$ ", 4 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217f7fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 6^{x^{2}-11x-22} < 36^{-5x-1} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ true, "$-4 < x < 5$ ", 0 ], [ false, "$4 < x < 5$ ", 1 ], [ false, "$ x < -4$ atau $ x > 5 $ ", 2 ], [ false, "$-5 < x < -4$ ", 3 ], [ false, "$ x < 4$ atau $ x > 5 $ ", 4 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217f8fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 3^{x^{2}-3} < \\frac{1}{3}^{-4x-2} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$1 < x < 5$ ", 0 ], [ true, "$-1 < x < 5$ ", 1 ], [ false, "$ x < -1$ atau $ x > 5 $ ", 2 ], [ false, "$-5 < x < -1$ ", 3 ], [ false, "$ x < -5$ atau $ x > -1 $ ", 4 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217f9fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 2^{x^{2}+3x-10} > \\frac{1}{2}^{-x+2} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$-4 < x < 2$ ", 0 ], [ false, "$-4 < x < -2$ ", 1 ], [ true, "$ x < -4$ atau $ x > 2 $ ", 2 ], [ false, "$ x < -4$ atau $ x > -2 $ ", 3 ], [ false, "$ x < 2$ atau $ x > 4 $ ", 4 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217fafcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 4^{x^{2}-5x-2} < 16^{-2x+5} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$-4 < x < -3$ ", 0 ], [ false, "$ x < -4$ atau $ x > -3 $ ", 1 ], [ false, "$ x < -3$ atau $ x > 4 $ ", 2 ], [ true, "$-3 < x < 4$ ", 3 ], [ false, "$3 < x < 4$ ", 4 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217fbfcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 3^{x^{2}+5x-5} > \\frac{1}{27}^{-2x+1} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$-1 < x < 2$ ", 0 ], [ false, "$ x < 1$ atau $ x > 2 $ ", 1 ], [ true, "$ x < -1$ atau $ x > 2 $ ", 2 ], [ false, "$-2 < x < -1$ ", 3 ], [ false, "$ x < -2$ atau $ x > -1 $ ", 4 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217fcfcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 6^{x^{2}-8x-5} > \\frac{1}{216}^{5x+5} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -5$ atau $ x > 2 $ ", 0 ], [ false, "$-5 < x < -2$ ", 1 ], [ false, "$ x < -2$ atau $ x > 5 $ ", 2 ], [ true, "$ x < -5$ atau $ x > -2 $ ", 3 ], [ false, "$-5 < x < 2$ ", 4 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217fdfcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 5^{x^{2}+x-14} > 5^{-x+1} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < -5$ atau $ x > -3 $ ", 0 ], [ false, "$ x < 3$ atau $ x > 5 $ ", 1 ], [ false, "$-5 < x < 3$ ", 2 ], [ true, "$ x < -5$ atau $ x > 3 $ ", 3 ], [ false, "$-5 < x < -3$ ", 4 ] ],
+    "jawaban" : "D"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217fefcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 3^{x^{2}-4x-2} < \\frac{1}{9}^{x-3} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < 2$ atau $ x > 4 $ ", 0 ], [ true, "$-2 < x < 4$ ", 1 ], [ false, "$2 < x < 4$ ", 2 ], [ false, "$ x < -2$ atau $ x > 4 $ ", 3 ], [ false, "$-4 < x < -2$ ", 4 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b217fffcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 4^{x^{2}+3x-6} < \\frac{1}{4}^{-5x+3} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ true, "$-1 < x < 3$ ", 0 ], [ false, "$1 < x < 3$ ", 1 ], [ false, "$ x < -1$ atau $ x > 3 $ ", 2 ], [ false, "$ x < -3$ atau $ x > -1 $ ", 3 ], [ false, "$-3 < x < -1$ ", 4 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b21800fcf811ecb611f098749de89b"
+}, {
+  "soal" : {
+    "soal-text" : "\n\n<p>\n    Solusi dari pertidaksamaan $ 3^{x^{2}+8x-16} > 9^{5x-4} $ adalah ....\n</p>\n\n\n",
+    "options" : [ [ false, "$ x < 2$ atau $ x > 4 $ ", 0 ], [ false, "$-4 < x < -2$ ", 1 ], [ false, "$-2 < x < 4$ ", 2 ], [ false, "$ x < -4$ atau $ x > -2 $ ", 3 ], [ true, "$ x < -2$ atau $ x > 4 $ ", 4 ] ],
+    "jawaban" : "E"
+  },
+  "bahas" : "\n",
+  "images" : [ ],
+  "template-id" : "7dc3a190fcf611ecb611f098749de89b",
+  "topic" : "math",
+  "problem-id" : "f9b21801fcf811ecb611f098749de89b"
+} ]

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <div id="app">
+      <h2 style="color: green">Benar: <%- benar %> <span style="color: red">Salah: <%- salah %></span></h1>
+      <h2><%- soal %></h2>
+      <div>
+        <form id="answer-form">
+          <input type="number" value=<%- problem_id %> name="problem-id" hidden>
+          <input type="radio" name="answer" value="A">
+          <label for="A" style="font-size: 20px;">A. <%= p1 %></label><br><br>
+          <input type="radio" name="answer" value="B">
+          <label for="B" style="font-size: 20px;">B. <%= p2 %></label><br><br>
+          <input type="radio" name="answer" value="C">
+          <label for="C" style="font-size: 20px;">C. <%= p3 %></label><br><br>
+          <input type="radio" name="answer" value="D">
+          <label for="D" style="font-size: 20px;">D. <%= p4 %></label><br><br>
+          <input type="radio" name="answer" value="E">
+          <label for="E" style="font-size: 20px;">E. <%= p5 %></label><br><br>
+          <input id="check-answer" style="margin-left: 50%; font-size: 14px;" type="submit" value="Check">
+          <div id="next-question" style="display: none">
+            <h1 id="answer-result" class="">Salah!</h1>
+            <button type="button" onclick="window.location.reload()">Soal berikutnya</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+  </script>
+  <script type="text/javascript" 
+    src="/MathJax/MathJax.js?config=TeX-MML-AM_CHTML" >
+  </script>
+  <script src="/javascripts/quiz.js"></script>
+</html>
