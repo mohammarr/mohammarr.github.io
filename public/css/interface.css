@@ -70,7 +70,7 @@
 
   /* show the margin-box */
 
-  .pagedjs_margin-top-left-corner-holder,
+  /* .pagedjs_margin-top-left-corner-holder,
   .pagedjs_margin-top,
   .pagedjs_margin-top-left,
   .pagedjs_margin-top-center,
@@ -91,7 +91,7 @@
   .pagedjs_margin-left-middle,
   .pagedjs_margin-left-bottom {
     box-shadow: 0 0 0 1px inset var(--color-marginBox);
-  }
+  } */
 
   /* uncomment this part for recto/verso book : ------------------------------------ */
 
