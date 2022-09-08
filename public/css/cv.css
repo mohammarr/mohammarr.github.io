@@ -27,6 +27,11 @@ body {
   transform: scale(0.8) translateY(3px);
 }
 
+.www::before {
+  content: url(/public/img/www.svg);
+  transform: scale(0.8) translateY(3px);
+}
+
 a {
   text-decoration: none;
 }
