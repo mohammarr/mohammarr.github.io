@@ -1,0 +1,120 @@
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f100; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    transition-property: opacity;
+    transition-duration: 1s;
+    background: #55555500; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555555; 
+}
+
+a {
+    transition: opacity 1s;
+    opacity: 1;
+}
+
+a:hover {
+    opacity: 0;
+}
+
+.debug {
+    border: 1px solid green;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+html::-webkit-scrollbar, 
+body::-webkit-scrollbar {
+    display: none;
+}
+
+canvas {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    height: 100%;
+}
+
+
+h1 {
+    font-size: 42px;
+}
+
+body {
+    overflow: none;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.page {
+    position: absolute;
+    top:0;
+    left:0;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.page-header {
+    display: flex;
+    gap: 50px;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-header a {
+    font-size: 18px;
+}
+
+.page-body {
+    display: flex;
+    gap: 40px;
+    flex-grow: 14;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .page-header {
+        width: 80%;
+        justify-content: flex-start;
+        align-self: center;
+        overflow-x: auto;
+    }
+
+    .page-body {
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        margin:5%;
+    }
+    #header-margin {
+        min-width: 30%;
+    }
+}
+
+.page-footer {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+}

@@ -68,7 +68,12 @@ h3 {
 }
 
 p {
-  margin: 10px 0 5px 0;
+  font-size: 15px;
+  margin: 0 0 0 0;
+}
+
+i {
+  margin: 0 0 10px 0;
 }
 
 .flex-item {
@@ -125,6 +130,17 @@ td:nth-child(2) {
 
 .container > h3 {
   margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.container > ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.container li {
+  font-size: 15px;
+  margin: 0px;
 }
 
 #contact {
