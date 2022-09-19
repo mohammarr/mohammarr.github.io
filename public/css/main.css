@@ -20,9 +20,14 @@
     background: #555555; 
 }
 
+* {
+    font-family: 'Open Sans', serif;
+}
+
 a {
     transition: opacity 1s;
     opacity: 1;
+    text-decoration: none;
 }
 
 a:hover {
@@ -103,6 +108,7 @@ body {
 
     .page-body {
         display: flex;
+        flex-direction: column;
         justify-content: flex-start;
         align-items: flex-start;
         margin:5%;
