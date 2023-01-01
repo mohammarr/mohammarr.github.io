@@ -107,7 +107,7 @@
               <section class="container">
                 <h3>Back-End Engineer</h3>
                 <p>Zenius Education</p>
-                <p><i><small>November 2021 - Present (<span id="currentJob" onload="loadDate()"></span>)</small></i></p>
+                <p><i><small>November 2021 - Present (<span id="currentJob"></span>)</small></i></p>
                 <ul>
                   <li>Worked on 5 projects mainly on making new web application for managing learning resources (LMS),
                     and implementing new features on existing repositories.</li>
@@ -153,12 +153,16 @@
   </div>
 </body>
 <script>
-  function loadDate(){
-  	const from = new Date("2021-11")
-    const yearDiff = new Date().getFullYear() - from.getFullYear()
-    const monthDiff = new Date().getMonth() - from.getMonth()
-    const num = yearDiff * 12 + monthDiff
-    document.getElementById("currentJob").innerHTML = num > 1 ? `${num} Months` : `${num} Month` 
+  window.addEventListener('load', function() {
+    let obj = document.getElementById("currentJob");
+    if(obj) obj.innerHTML = getRangeToPresent(new Date("2021-11"));
+  })
+  
+  function getRangeToPresent(from){
+    const yearDiff = new Date().getFullYear() - from.getFullYear();
+    const monthDiff = new Date().getMonth() - from.getMonth();
+    const num = yearDiff * 12 + monthDiff;
+    return num > 1 ? `${num} Months` : `${num} Month`;
   }
 </script>
 </html>
