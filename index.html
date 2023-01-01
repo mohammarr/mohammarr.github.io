@@ -107,7 +107,7 @@
               <section class="container">
                 <h3>Back-End Engineer</h3>
                 <p>Zenius Education</p>
-                <p><i><small>November 2021 - Present (<span id="currentJob"></span>)</small></i></p>
+                <p><i><small>November 2021 - Present (<span id="currentJob" onload="loadDate()"></span>)</small></i></p>
                 <ul>
                   <li>Worked on 5 projects mainly on making new web application for managing learning resources (LMS),
                     and implementing new features on existing repositories.</li>
@@ -140,7 +140,7 @@
                 <h3>Celluloid</h3>
                 <p>University of Indonesia</p>
                 <p><i><small>Dec 3, 2018</small></i></p>
-                </p>Game for <i>#CSUIGameDev2018</i> project. Fast-paced platform
+                <p>Game for <i>#CSUIGameDev2018</i> project. Fast-paced platform
                 game with different types of enemy that represent bacteria and
                 virus on human body. The objective is survive as long as you
                 can from germs invasion that evolves every time.</p>
@@ -153,15 +153,12 @@
   </div>
 </body>
 <script>
-  window.addEventListener('load', function() {
-    document.getElementById("currentJob").innerHTML = getRangeToPresent(new Date("2021-11"))
-  })
-  
-  function getRangeToPresent(from){
+  function loadDate(){
+  	const from = new Date("2021-11")
     const yearDiff = new Date().getFullYear() - from.getFullYear()
     const monthDiff = new Date().getMonth() - from.getMonth()
     const num = yearDiff * 12 + monthDiff
-    return num > 1 ? `${num} Months` : `${num} Month`
+    document.getElementById("currentJob").innerHTML = num > 1 ? `${num} Months` : `${num} Month` 
   }
 </script>
 </html>
