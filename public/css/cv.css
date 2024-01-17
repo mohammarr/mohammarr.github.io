@@ -63,6 +63,11 @@ a:visited {
   transform: scale(0.9) translateY(3px);
 }
 
+.leetcode::before {
+  content: url(/public/img/leetcode.svg);
+  transform: scale(0.9) translateY(3px);
+}
+
 h3 {
   margin: 20px 0 5px 0;
 }
