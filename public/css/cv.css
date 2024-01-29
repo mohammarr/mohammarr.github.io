@@ -33,6 +33,7 @@ body {
 }
 
 a {
+  font-size: 14px;
   text-decoration: none;
 }
 
@@ -81,12 +82,6 @@ i {
   margin: 0 0 10px 0;
 }
 
-.flex-item {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
-
 #header-nama > h2 {
   margin: 0;
 }
@@ -100,28 +95,23 @@ ul {
   padding-left: 20px;
 }
 
-li {
-  margin-bottom: 5px;
+.cv-table {
+  width: 90%;
+  margin: auto;
 }
 
-td {
+.cv-table > .cv-row > td {
   vertical-align: top;
 }
 
-td:nth-child(1) {
+.cv-table > .cv-row > td:nth-child(1) {
   padding-top: 0px;
   width: 30%;
 }
 
-td:nth-child(2) {
+.cv-table > .cv-row > td:nth-child(2) {
   padding-left: 30px;
   padding-top: 0;
-  /* padding-top: 10px; */
-}
-
-.table {
-  width: 90%;
-  margin: auto;
 }
 
 .summary {
@@ -131,6 +121,7 @@ td:nth-child(2) {
 
 .container {
   text-align: justify;
+  margin-bottom: 30px;
 }
 
 .container > h3 {
@@ -148,10 +139,15 @@ td:nth-child(2) {
   margin: 0px;
 }
 
-#contact {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
+.contacts {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  margin-top: 20px;
+}
+
+.contacts a:not(:last-child):after {
+  content: " • ";
 }
 
 #contact li {
@@ -166,6 +162,10 @@ td:nth-child(2) {
   -moz-columns: 2;
 }
 
+.page-break {
+  height: var(--pagedjs-pagebox-height);
+}
+
 /* .side-container > h3 {
   margin-top: 0;
 } */
@@ -177,4 +177,42 @@ td:nth-child(2) {
 
 .side-container:nth-child(1) > h3 {
   margin-top: 0;
+}
+
+.job-detail {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+div.job-detail p:nth-child(1) {
+  flex-grow: 1;
+}
+
+.key-skills {
+  margin-top: 5px;
+  width: 100%;
+  vertical-align: bottom;
+}
+
+table.key-skills tr > td:nth-child(1) {
+  font-weight: bold;
+  vertical-align: top;
+  width: 1px;
+  white-space: nowrap;
+}
+
+.key-skills tr > td:nth-child(2) {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  align-content: center;
+  height: auto;
+}
+
+.key-skills p:not(:last-child):after {
+  content: ", ";
+}
+
+.key-skills p {
+  margin-top: auto;
 }
