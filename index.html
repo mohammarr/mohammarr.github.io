@@ -1,10 +1,194 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <title>Github - Mohammad Ammar Ramadhan</title>
+    <meta charset="utf-8" />
+    <title>Resume - Mohammad Ammar Ramadhan</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+    <link href="public/css/interface.css" rel="stylesheet" type="text/css" />
+    <link href="public/css/page.css" rel="stylesheet" type="text/css" />
+    <link href="public/css/cv.css" rel="stylesheet" type="text/css" />
   </head>
+
   <body>
-    <p>This is my page</p>
+    <div class="flex-container">
+      <div class="background">
+        <table class="cv-table">
+          <tr class="cv-row">
+            <td>
+              <div>
+                <div id="header-nama">
+                  <h2>Mohammad Ammar Ramadhan</h2>
+                  <p>Software Engineer | Game Developer</p>
+                </div>
+                <div class="contacts">
+                  <a href="mailto:muhammarr26@gmail.com"
+                    >muhammarr26@gmail.com</a
+                  >
+                  <a href="https://linkedin.com/in/mohammarr/">
+                    linkedin.com/in/mohammarr
+                  </a>
+                  <a href="https://leetcode.com/mohammarr/">
+                    leetcode.com/mohammarr
+                  </a>
+                  <a>+62-812-8547-0346</a>
+                </div>
+                <hr style="width: 100%" />
+                <div class="summary">
+                  <p>
+                    A Computer Science Graduate from University of Indonesia and
+                    have 2 years of experiences in Tech industry. Specialize in
+                    web development's back-end, front-end and have a basic
+                    knowledge on how server works.
+                  </p>
+                </div>
+                <h3>Experience</h3>
+                <hr width="100%" style="margin: 0px" />
+                <section class="container">
+                  <h3>Back End Engineer</h3>
+                  <div class="job-detail">
+                    <p>Zenius Education · Full-time</p>
+                    <p>
+                      <i>
+                        <small> November 2021 - January 2024</small>
+                      </i>
+                    </p>
+                  </div>
+                  <ul>
+                    <li>
+                      Maintain and add new features to at least 10 repositories
+                      of Zenius infrastructure and collaborate in
+                      Engilsh-speaking environment with Indian team for 1 year.
+                    </li>
+                    <li>
+                      Develop a new Learning Management System (LMS) with Django
+                      from design a MongoDB database model, and build modules
+                      such as a worker for managing queue of task that require a
+                      long operation like processing a csv for bulk insert.
+                    </li>
+                    <li>
+                      Identified vulnerabilities of Zenius LMS login system
+                      using Burp Suite and make an article outlining how Zenius
+                      LMS utilizing JWT and the mitigation strategies.
+                    </li>
+                    <li>
+                      Help peers by explaining Zenius microservices and database
+                      relations, reviewing code on its complexity, and
+                      troubleshooting bugs and server problems by investigate
+                      server logs in Kibana and Grafana.
+                    </li>
+                  </ul>
+                  <table class="key-skills">
+                    <tbody>
+                      <tr>
+                        <td><p>Tech Stack:</p></td>
+                        <td>
+                          <p>Javascript</p>
+                          <p>Python</p>
+                          <p>Clojure</p>
+                          <p>Express.js</p>
+                          <p>Nest.js</p>
+                          <p>Django</p>
+                          <p>MongoDB</p>
+                          <p>PostgreSQL</p>
+                          <p>ElasticSearch</p>
+                          <p>Neo4j</p>
+                          <p>Redis</p>
+                          <p>Docker</p>
+                          <p>Git</p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </section>
+                <section class="container">
+                  <h3>Web Developer</h3>
+                  <div class="job-detail">
+                    <p>PAWAI ID · Freelance</p>
+                    <p>
+                      <i>
+                        <small> September 2022 - April 2023</small>
+                      </i>
+                    </p>
+                  </div>
+                  <ul>
+                    <li>
+                      Develop an ticket management web service that can handle
+                      5000 request per hour and peak at 10k request per hour.
+                    </li>
+                    <li>
+                      Learn and manage Midtrans and Paypal for payments,
+                      Exabytes for web hosting, and Cloudflare for monitoring
+                      traffic, HTTPS certification, and bot prevention.
+                    </li>
+                    <li>
+                      Build own email sender by using Netlify function for
+                      receving request and connect to own VPS mail server via
+                      SMTP.
+                    </li>
+                    <li>
+                      Maintain an existing Golang based backend by adding new
+                      email sender module, and update GORM database schema and
+                      its serializer.
+                    </li>
+                    <li>
+                      Redesign and build a responsive website with React based
+                      on the Figma references provided.
+                    </li>
+                  </ul>
+                  <table class="key-skills">
+                    <tbody>
+                      <tr>
+                        <td><p>Tech Stack:</p></td>
+                        <td>
+                          <p>Javascript</p>
+                          <p>Golang</p>
+                          <p>React</p>
+                          <p>PostgreSQL</p>
+                          <p>Redis</p>
+                          <p>Git</p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </section>
+                <section class="container">
+                  <h3>Education</h3>
+                  <hr width="100%" style="margin: 0px" />
+                  <h3>Universitas Indonesia</h3>
+                  <div class="job-detail">
+                    <p>Bachelor Degree, Computer Science</p>
+                    <p>
+                      <i><small>July 2016 - January 2021</small></i>
+                    </p>
+                  </div>
+                </section>
+                <section class="container">
+                  <h3>Publication</h3>
+                  <hr width="100%" style="margin: 0px" />
+                  <h3>Punakawan Z</h3>
+                  <div class="job-detail">
+                    <p>Petruk Gareng Project, University of Indonesia</p>
+                    <p>
+                      <i><small>May 2020 - Aug 2020</small></i>
+                    </p>
+                  </div>
+                  <p>
+                    A collaboration project between FIB UI and FASILKOM UI.
+                    Punakawan Z is a storytelling game adaptation of "Petruk dan
+                    Gareng berlaga" webcomics by FIB UI. Contributed to building
+                    the game's framework, which includes a dialog and cinematic
+                    system, so other developers can easily develop a scene based
+                    on the comic.
+                  </p>
+                </section>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
   </body>
 </html>
